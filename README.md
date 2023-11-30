@@ -7,6 +7,7 @@ Full Stack Web Developer
 Greetings! Hailing from India 🇮🇳, I'm a college student immersed in the world of full-stack web development. Fueled by a passion for emerging tech and the decentralized web (Web3), I'm on a quest to unravel the intricacies of code and unlock creative possibilities. Join me on this exhilarating journey into the digital realm! #WebDev #Web3Enthusias
 
 <hr {width: 10px;}>
+
 ### Languages and Tools
 
 
