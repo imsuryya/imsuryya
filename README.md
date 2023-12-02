@@ -18,3 +18,6 @@ Greetings! Hailing from India 🇮🇳, I'm a college student immersed in the wo
 <hr {width: 10px;}>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsuryya&show_icons=true&locale=en&layout=compact" alt="imsuryya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsuryya&" alt="imsuryya" /></p>
+
