@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hello 👋, I'm Surya</h1>
   <a href="https://www.linkedin.com/in/suryar8/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=1A0000"/></a>
-  <a href="mailto:suryar12130@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a>
+  <a href="mailto:imsuryya@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a>
 </div>
 
 <br>
