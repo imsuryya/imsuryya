@@ -1,20 +1,16 @@
 <div align="center">
   <h1 align="center">Hello 👋, I'm Surya</h1>
-  <a href="https://www.linkedin.com/in/suryar8/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=1A0000"/></a>
-  <a href="mailto:imsuryya@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a>
+
 </div>
 
 <br>
 
 <div align="left">
-   
-Greetings! I'm a college student deeply involved in full-stack web 
-development, currently working on a personal project and contributing to
- open-source initiatives. Additionally, I have a keen interest in cloud 
-and DevOps, constantly exploring new ways to optimize and innovate. 
-Fueled by a passion for emerging tech and the decentralized web (Web3), 
-I'm on a quest to unravel the intricacies of code and unlock creative 
-possibilities.
+
+Greetings! I'm a college student passionate about **Full-Stack Web Development**, currently working on both personal projects and my SaaS product **[Graphsor](https://www.graphsor.com)**.
+
+You can learn more about me here: [imsurya.dev](https://www.imsurya.dev)
+
 
 </div>
   
